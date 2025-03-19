@@ -1,9 +1,9 @@
 library(pacman)
 p_load(tidyverse, lubridate, yaml, googlesheets4)
 
-dados_raw = read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vT1HuMhv4dJpNJZK5cMim_jLMbZ0TRahAXLYDV3Pgdv3UlEZa-G0gKtPXmRK1TaYnoih-qR_J0SFbMd/pub?gid=487223849&single=true&output=csv")[,-24]
+dados = read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vT1HuMhv4dJpNJZK5cMim_jLMbZ0TRahAXLYDV3Pgdv3UlEZa-G0gKtPXmRK1TaYnoih-qR_J0SFbMd/pub?gid=487223849&single=true&output=csv")[,-24]
 
-dados = dados_raw |> mutate(Valor = coalesce(Valor...3, Valor...8), .keep = "unused", .after = "Tipo do registro")
+dados = dados |> mutate(Valor = coalesce(Valor...3, Valor...8), .keep = "unused", .after = "Tipo do registro")
 
 dados = dados |> mutate(Descricao_curta = coalesce(Descricao_curta...4, Descricao_curta...9),
                         .keep = "unused", .after = "Valor")
