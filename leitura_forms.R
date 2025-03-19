@@ -1,7 +1,9 @@
 library(pacman)
 p_load(tidyverse, lubridate, yaml, googlesheets4)
 
-dados = read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vT1HuMhv4dJpNJZK5cMim_jLMbZ0TRahAXLYDV3Pgdv3UlEZa-G0gKtPXmRK1TaYnoih-qR_J0SFbMd/pub?gid=487223849&single=true&output=csv")[,-24]
+config = read_yaml("config.yaml")
+
+dados = read_csv(config$link)[,-24]
 
 dados = dados |> mutate(Valor = coalesce(Valor...3, Valor...8), .keep = "unused", .after = "Tipo do registro")
 
@@ -17,3 +19,5 @@ dados = dados |> mutate(Subcategoria = coalesce(Subcategoria...11, Subcategoria.
 
 dados = dados |> mutate(Categoria = ifelse(is.na(Categoria), `Tipo do registro`, Categoria), 
                         Quantidade = replace_na(Quantidade, 0))
+
+write_csv(dados, "dados.csv")
