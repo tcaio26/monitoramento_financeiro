@@ -5,9 +5,9 @@ config = read_yaml("config.yaml")
 
 print("Lendo dados...")
 
-dados = suppressWarnings(suppressMessages(read_csv(config$link, show_col_types = F, progress = F)))[,-24]
+dados = suppressWarnings(suppressMessages(read_csv(config$link, show_col_types = F, progress = F)))[,-25]
 
-comparacao = nrow(read_csv("dados.csv"))
+comparacao = nrow(read_csv("dados.csv", show_col_types = F, progress = F))
 
 print(glue::glue("Leitura concluída, {nrow(dados)-comparacao} novas observações, formatando..."))
 
@@ -20,11 +20,14 @@ dados = dados |> mutate(Tipo = coalesce(Tipo...6, Tipo...10), .keep = "unused", 
 
 dados = dados |> mutate(Subcategoria = coalesce(Subcategoria...11, Subcategoria...12, Subcategoria...13,
                                                 Subcategoria...14, Subcategoria...15, Subcategoria...16,
-                                                Subcategoria...17, Subcategoria...18, Subcategoria...19),
+                                                Subcategoria...17, Subcategoria...18, Subcategoria...19,
+                                                Subcategoria...24),
                         .keep = "unused", .after = "Categoria")
 
 dados = dados |> mutate(Categoria = ifelse(is.na(Categoria), `Tipo do registro`, Categoria), 
                         Quantidade = replace_na(Quantidade, 0))
+
+dados = rename(dados, data = `Carimbo de data/hora`)
 
 print("Salvando dados em dados.csv")
 
