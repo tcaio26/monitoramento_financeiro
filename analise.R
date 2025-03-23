@@ -1,6 +1,6 @@
 #Setup
 library(pacman)
-p_load(tidyverse, lubridate, gghighlight)
+p_load(tidyverse, lubridate, gghighlight, psych)
 
 
 #Leitura
@@ -16,9 +16,16 @@ mensal = dados |> filter(data>floor_date(today(), "months"))
 
 
 #Análise mensal
+mensal |> group_by(Tipo, Categoria) |> select(Valor) |> describe()
+  
 mensal |> filter(`Tipo do registro`!="Receita") |> group_by(Categoria) |> ggplot(aes(x=Categoria,y=-Valor))+
   geom_col(aes(fill = Subcategoria))
 
+mensal |> ggplot(aes(x = data, y = cumsum(Valor)))+
+  geom_step(aes(color = (Valor>0)), show.legend = F)+
+  scale_x_datetime(date_breaks = '2 days', date_labels = "%d")
+
 #Análise longo prazo
 dados |> ggplot(aes(x = data, y = cumsum(Valor)))+
-  geom_step(aes(color = (Valor>0)), show.legend = F)
+  geom_step(aes(color = (Valor>0)), show.legend = F)+
+  scale_x_datetime(date_breaks = 'week')
