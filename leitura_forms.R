@@ -5,7 +5,8 @@ config = read_yaml("config.yaml")
 
 print("Lendo dados...")
 
-dados = suppressWarnings(suppressMessages(read_csv(config$link, show_col_types = F, progress = F)))[,-25]
+dados = suppressWarnings(suppressMessages(read_csv(config$link, show_col_types = F, progress = F)))
+dados = select(dados, select = -c(Sub)) |> rename(correcao_data = `Correção de data`) #remove aquela coluna que vem toda NA
 
 comparacao = nrow(read_csv("dados.csv", show_col_types = F, progress = F))
 
@@ -27,7 +28,15 @@ dados = dados |> mutate(Subcategoria = coalesce(Subcategoria...11, Subcategoria.
 dados = dados |> mutate(Categoria = ifelse(is.na(Categoria), `Tipo do registro`, Categoria), 
                         Quantidade = replace_na(Quantidade, 0))
 
+dados = dados |> mutate(correcao_data = ifelse(
+  nchar(as.character(correcao_data))==7,
+  paste0('0',as.character(correcao_data)),
+  as.character(correcao_data)) |> dmy())
+
 dados = rename(dados, data = `Carimbo de data/hora`)
+
+dados = dados |> mutate(data = dmy(str_extract(data, '^[\\S]+')))
+dados = dados |> mutate(data = ifelse(is.na(correcao_data), data, correcao_data) |> as_date())
 
 print("Salvando dados em dados.csv")
 

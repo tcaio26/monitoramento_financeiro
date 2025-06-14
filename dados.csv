@@ -1,0 +1,331 @@
+data,Tipo do registro,Valor,Descricao_curta,Tipo,Quantidade,Categoria,Subcategoria,Destino ou fonte,Pagamento,Conta de Banco,Comentarios,correcao_data
+2025-03-16,Receita,15,pix_lucas_cereal,Pontual,0,Receita,Acerto de contas,Lucas Michael,Debito ou Pix,Itaú,NA,NA
+2025-03-16,Gasto,178.49,compras para casa,Variável,1,Casa,Utilidades,Dalben,Crédito,Itaú,"Várias compras para casa: Produtos de limpeza, vassoura e rodo, balde, pá, etc. perdi a nota",NA
+2025-03-16,Gasto,47.78,vinho e veja,Extra,2,Compras,Bebida,pão de açúcar,Crédito,Itaú,vinho de 350ml e um veja cloro ativo,NA
+2025-03-16,Gasto,40.88,taças de vinho e lasanha,Variável,3,Compras,Comida,Dalben,Crédito,Itaú,NA,NA
+2025-03-16,Gasto,112.33,brinco_hzmn,Extra,1,Compras,Roupas e Acessórios,Amazon,Crédito,Nubank,NA,NA
+2025-03-17,Gasto,210,conjunto_toalhas_buddemeyer,Pontual,1,Casa,Utilidades,Amazon,Crédito,Itaú,NA,NA
+2025-03-17,Gasto,210,frigideira_tramontina,Pontual,1,Casa,Cozinha,Amazon,Crédito,Itaú,NA,NA
+2025-03-17,Gasto,139,kit_toalhas_buddemeyer,Pontual,1,Casa,Utilidades,Amazon,Crédito,Itaú,NA,NA
+2025-03-18,Gasto,12.92,uber_gabi_casa,Variável,1,Transporte,Uber,Uber,Crédito,Itaú,NA,NA
+2025-03-18,Gasto,16.98,monster_pao_de_q,Extra,2,Compras,Lanches,oxxo,Vale Refeição,Alelo,NA,NA
+2025-03-18,Gasto,20,recarga_transurc,Variável,1,Transporte,Público,transurc,Crédito,Itaú,NA,NA
+2025-03-18,Gasto,137.1,emissao_cnh,Pontual,1,Outros,Não se encaixa,detran,Crédito,Itaú,NA,NA
+2025-03-18,Gasto,9.99,escova_limpeza,Variável,1,Casa,Utilidades,dalben,Crédito,Itaú,NA,NA
+2025-03-18,Gasto,22.9,tannur_almoço,Variável,1,Refeições,Refeições,Tannur,Crédito,Itaú,NA,NA
+2025-03-18,Gasto,38.98,camisinha_sabonete,Variável,2,Compras,Higiene e Cuidados,droga raia,Crédito,Itaú,NA,NA
+2025-03-18,Gasto,64.11,compras_dalben_jantar,Variável,10,Compras,Comida,dalben,Crédito,Itaú,NA,NA
+2025-03-18,Gasto,33.99,escorredor,Pontual,1,Casa,Cozinha,dalben,Vale Refeição,Alelo,NA,NA
+2025-03-19,Gasto,55.7,trena_espatula_prendedores,Pontual,3,Casa,Utilidades,multicoisas,Crédito,Itaú,NA,NA
+2025-03-19,Gasto,39.38,compras_jantar_gabi,Variável,6,Compras,Comida,dalben,Crédito,Itaú,NA,NA
+2025-03-19,Gasto,27.96,filet_mignon,Variável,4,Compras,Comida,swift,Crédito,Itaú,NA,NA
+2025-03-20,Gasto,42.98,funil_ralador,Pontual,2,Casa,Cozinha,dalben,Crédito,Itaú,NA,NA
+2025-03-20,Gasto,9.89,monster_manga,Extra,1,Compras,Lanches,dalben,Crédito,Itaú,NA,NA
+2025-03-20,Gasto,2.59,limao_siciliano,Variável,1,Compras,Comida,dalben,Crédito,Itaú,NA,NA
+2025-03-21,Gasto,21.9,assinatura_spotify,Assinatura,1,Compras,Digital,spotify,Crédito,Nubank,NA,NA
+2025-03-21,Gasto,30,carona_gabriel,Variável,1,Transporte,Carona,Blablacar,Debito ou Pix,Itaú,NA,NA
+2025-03-23,Gasto,25.5,caderno,Variável,1,Compras,Papelaria,connectprint,Crédito,Itaú,NA,NA
+2025-03-23,Gasto,40,recarga transurc,Variável,1,Transporte,Público,transurc,Crédito,Itaú,NA,NA
+2025-03-23,Gasto,41.9,marmita_belo,Variável,1,Refeições,Refeições,cantina do belo,Crédito,Itaú,NA,NA
+2025-03-23,Gasto,2.9,pao_frances,Variável,2,Compras,Comida,oxxo,Crédito,Itaú,NA,NA
+2025-03-23,Gasto,15.95,uber_pra_carona,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,NA
+2025-03-23,Gasto,5.28,itubaina,Extra,1,Compras,Lanches,oxxo,Crédito,Itaú,NA,NA
+2025-03-23,Gasto,65,corte de cabelo,Variável,1,Serviços,Corpo,barbearia keeperz,Crédito,Itaú,NA,NA
+2025-03-23,Gasto,19.9,salgado cogumelo e palmito,Extra,1,Refeições,Lanches,ofner,Crédito,Itaú,NA,NA
+2025-03-23,Gasto,80.5,pastas e estojo,Extra,3,Compras,Papelaria,haikai,Crédito,Itaú,NA,NA
+2025-03-23,Gasto,4.99,compra oxxo,Extra,1,Outros,Desconhecido,oxxo,Debito ou Pix,Itaú,NA,NA
+2025-03-23,Gasto,30,carona gabriel 21_03,Variável,1,Transporte,Carona,blablacar,Debito ou Pix,Itaú,NA,NA
+2025-03-23,Gasto,24.9,caixa_misterio,Extra,1,Compras,Lazer,big plush,Debito ou Pix,Itaú,NA,NA
+2025-03-23,Gasto,20,recarga metro,Variável,1,Transporte,Público,metro,Debito ou Pix,Itaú,NA,NA
+2025-03-29,Receita,633,vale_refeição,Fixo,0,Receita,Benefícios,Accenture,Receita,Alelo,NA,NA
+2025-03-29,Gasto,29.89,tannur_kebab_frango,Variável,1,Refeições,Refeições,tannur,Vale Refeição,Alelo,NA,NA
+2025-03-29,Gasto,11.49,monster,Extra,1,Compras,Lanches,oxxo,Vale Refeição,Alelo,NA,NA
+2025-03-29,Gasto,10.5,cafes plasma,Variável,3,Refeições,Lanches,cafe_plasma,Vale Refeição,Alelo,NA,NA
+2025-03-29,Gasto,21.95,bacio_di_latte,Extra,1,Refeições,Lanches,bacio di latte,Vale Refeição,Alelo,NA,NA
+2025-03-29,Receita,100,vale_beneficios,Fixo,0,Receita,Benefícios,Accenture,Vale Refeição,Alelo,NA,NA
+2025-03-29,Gasto,63.26,cuecas_pao_frances,Variável,2,Compras,Roupas e Acessórios,dalben,Vale Refeição,Alelo,NA,NA
+2025-03-29,Receita,211,vale_alimentação,Fixo,0,Receita,Benefícios,Accenture,Vale Refeição,Alelo,NA,NA
+2025-03-29,Gasto,15.48,nao lembro,Extra,1,Outros,Desconhecido,dalben,Vale Refeição,Alelo,NA,NA
+2025-03-29,Gasto,43.98,raviolis_queijo,Variável,2,Compras,Comida,dalben,Vale Refeição,Alelo,NA,NA
+2025-03-29,Gasto,18.78,"cebola, lemon pepper, amendoim",Variável,3,Compras,Comida,dalben,Vale Refeição,Alelo,NA,NA
+2025-03-29,Gasto,39.9,vinho sta carolina,Extra,1,Compras,Bebida,dalben,Vale Refeição,Alelo,NA,NA
+2025-03-29,Gasto,21,recarga bandeco,Variável,1,Refeições,Bandeco,unicamp,Debito ou Pix,Itaú,NA,NA
+2025-03-29,Receita,150,venda sapatilha escalada,Pontual,0,Receita,Vendas,Lucas Zanoli,Debito ou Pix,Itaú,NA,NA
+2025-03-29,Gasto,130,inscrição festival boulder jundiai,Extra,1,Lazer,Esportes,top escalada fitness,Debito ou Pix,Itaú,NA,NA
+2025-03-29,Gasto,36,role saladamista kiwi,Extra,1,Lazer,Roles,rep kiwi,Debito ou Pix,Itaú,NA,NA
+2025-03-29,Gasto,17.48,compras oxxo,Extra,1,Compras,Lanches,oxxo,Crédito,Itaú,NA,NA
+2025-03-29,Gasto,10.97,uber da casa da gabi,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,NA
+2025-03-29,Gasto,20,cafe e croissant cafeteria CB,Extra,2,Refeições,Lanches,cafeteria cb,Crédito,Itaú,NA,NA
+2025-03-29,Gasto,7.96,uber para unicamp,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,NA
+2025-03-29,Gasto,58.62,varias compras dalben nao lembro,Variável,3,Compras,Comida,dalben,Crédito,Itaú,NA,NA
+2025-03-29,Gasto,24.95,kit limpeza telas,Pontual,1,Compras,Limpeza,amazon,Crédito,Itaú,NA,NA
+2025-03-29,Gasto,24.17,frango paprica,Variável,2,Compras,Comida,dalben,Crédito,Itaú,NA,NA
+2025-03-29,Gasto,17.9,cafe e pao na chapa,Extra,1,Refeições,Lanches,cafeteria cb,Crédito,Itaú,NA,NA
+2025-03-29,Gasto,12.92,uber ate gabi,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,NA
+2025-03-29,Gasto,41.2,lapiseira pentel + grafite,Extra,1,Compras,Papelaria,connectprint,Crédito,Itaú,NA,NA
+2025-03-29,Gasto,25,recargas transurc,Variável,2,Transporte,Público,transurc,Crédito,Itaú,NA,NA
+2025-03-29,Gasto,8.99,uber ate embrev,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,NA
+2025-03-29,Gasto,30,cervejas embrev,Extra,2,Lazer,Gastos no local - Bebida,embrev,Crédito,Itaú,NA,NA
+2025-03-29,Gasto,59,date sandy 2 ingressos + pipoca,Extra,2,Lazer,Dates,kinoplex dom pedro,Crédito,Itaú,NA,NA
+2025-03-29,Gasto,21,recarga bandeco,Variável,1,Refeições,Bandeco,unicamp,Debito ou Pix,Nubank,NA,NA
+2025-03-29,Gasto,1.5,lápis,Variável,1,Compras,Papelaria,connectprint,Debito ou Pix,Nubank,NA,NA
+2025-03-29,Gasto,23.39,lasanha E massa tapioca,Variável,2,Compras,Comida,dalben,Vale Refeição,Alelo,NA,NA
+2025-03-29,Gasto,7.99,monster manga,Extra,1,Compras,Lanches,dalben,Vale Refeição,Alelo,NA,NA
+2025-03-30,Gasto,16.85,ubers ida e volta role kiwi,Variável,2,Transporte,Uber,uber,Crédito,Itaú,NA,NA
+2025-03-30,Gasto,9.92,uber ate plasma,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,NA
+2025-03-30,Gasto,36,combo big mac,Variável,1,Refeições,Refeições,macdonalds,Vale Refeição,Alelo,NA,NA
+2025-03-30,Gasto,24.77,monster gatorade sorvete,Extra,3,Compras,Lanches,oxxo,Vale Refeição,Itaú,NA,NA
+2025-03-30,Gasto,42.9,combo blitz burguer,Variável,1,Refeições,Delivery,blitz burguer,Vale Refeição,Alelo,NA,NA
+2025-03-31,Gasto,6.98,Uber pro bandeco,Variável,1,Transporte,Uber,uber,Crédito,Itaú,perdi o ônibus,NA
+2025-04-01,Gasto,44.69,frango e pote de vidro,Variável,2,Compras,Comida,dalben,Vale Refeição,Alelo,NA,NA
+2025-04-01,Gasto,19,cafe com sara e vini,Variável,1,Refeições,Lanches,cafe posto barao,Vale Refeição,Alelo,NA,NA
+2025-04-01,Gasto,43.93,"queijo, requeijão, tomate",Variável,3,Compras,Comida,dalben,Vale Refeição,Alelo,NA,NA
+2025-04-01,Gasto,4.79,macarrão,Variável,1,Compras,Comida,oxxo,Vale Refeição,Alelo,NA,NA
+2025-04-01,Receita,855.83,salario 2 março,Fixo,0,Receita,Salário,Accenture,Debito ou Pix,Itaú,NA,NA
+2025-04-01,Receita,1152.14,dinheiro vo formatura,Extra,0,Receita,Presentes ou Ajuda,Monique Lagnieux,Debito ou Pix,Itaú,NA,NA
+2025-04-01,Gasto,15.94,uber ida backstage,Extra,1,Transporte,Uber,uber,Crédito,Itaú,NA,NA
+2025-04-01,Gasto,27.95,uber volta backstage,Extra,1,Transporte,Uber,uber,Crédito,Itaú,NA,NA
+2025-04-01,Gasto,59.82,jogo de cama,Pontual,1,Casa,Utilidades,mercado livre,Crédito,Itaú,NA,NA
+2025-03-24,Gasto,1.5,esquecido,Extra,1,Outros,Desconhecido,Wagner Jesus Vilches,Debito ou Pix,Nubank,NA,2025-03-24
+2025-03-25,Gasto,21,recarga bandeco,Variável,1,Refeições,Bandeco,unicamp,Debito ou Pix,Nubank,NA,2025-03-25
+2025-03-20,Gasto,21.9,assinatura_spotify,Assinatura,1,Compras,Digital,spotify,Crédito,Nubank,NA,2025-03-20
+2025-04-12,Gasto,49.99,assinatura_claro_flex,Assinatura,1,Compras,Digital,claro,Crédito,Nubank,NA,2025-04-12
+2025-04-16,Gasto,12.27,buser,Variável,1,Transporte,Rodoviaria ou Fretado,buser,Crédito,Nubank,NA,2025-04-16
+2025-04-20,Gasto,250,inscrição_sampa_boulder,Extra,1,Lazer,Esportes,republica dos macacos,Crédito,Nubank,NA,2025-04-20
+2025-04-24,Gasto,419.44,show_SOAD,Extra,1,Lazer,Festas e Shows,eventim,Crédito,Nubank,6 parcelas,2025-04-24
+2025-04-12,Gasto,49.99,assinatura_claro_flex,Assinatura,1,Compras,Digital,claro,Crédito,Nubank,NA,2025-04-12
+2025-06-07,Gasto,33.62,kebab delivery tannur,Variável,1,Refeições,Delivery,tannur,Crédito,Nubank,NA,2025-06-07
+2025-06-07,Gasto,35.98,pupos lanche,Variável,1,Refeições,Delivery,pupos burguer,Crédito,Nubank,NA,2025-06-07
+2025-03-05,Receita,700,bolsa ic,Fixo,0,Receita,Salário,PIBIC,Receita,BB,bolsa de IC,2025-03-05
+2025-03-05,Gasto,4.24,taxa BB,Multa ou Dívida,1,Outros,Desconhecido,Banco do Brasil,Debito ou Pix,BB,NA,2025-03-05
+2025-04-05,Receita,700,bolsa ic,Fixo,0,Receita,Salário,PIBIC,Receita,BB,NA,2025-04-05
+2025-04-03,Gasto,5,taxa BB,Multa ou Dívida,1,Outros,Desconhecido,Banco do Brasil,Debito ou Pix,BB,NA,2025-04-03
+2025-05-08,Gasto,5,taxa BB,Multa ou Dívida,1,Outros,Desconhecido,Banco do Brasil,Debito ou Pix,BB,NA,2025-05-08
+2025-05-08,Receita,700,bolsa ic,Fixo,0,Receita,Salário,PIBIC,Receita,BB,NA,2025-05-08
+2025-06-05,Receita,700,bolsa ic,Fixo,0,Receita,Salário,PIBIC,Receita,BB,NA,2025-06-05
+2025-06-05,Gasto,5,taxa BB,Multa ou Dívida,1,Outros,Desconhecido,Banco do Brasil,Debito ou Pix,BB,NA,2025-06-05
+2025-04-03,Receita,0.12,rendimentos itau,Extra,0,Receita,Investimentos,itau,Receita,Itaú,NA,2025-04-03
+2025-04-07,Receita,1488.97,ajuda pai,Extra,0,Receita,Presentes ou Ajuda,pai,Receita,Itaú,NA,2025-04-07
+2025-04-10,Gasto,67,pix unicamp,Extra,1,Outros,Desconhecido,unicamp,Debito ou Pix,Itaú,NA,2025-04-10
+2025-04-14,Receita,100,presente tio paulo,Extra,0,Receita,Presentes ou Ajuda,tio paulo,Debito ou Pix,Itaú,NA,2025-04-14
+2025-04-14,Gasto,3.5,cafe,Extra,1,Refeições,Lanches,gran coffee,Debito ou Pix,Itaú,NA,2025-04-14
+2025-04-14,Receita,0.03,rendimentos itau,Extra,0,Receita,Investimentos,itau,Receita,Itaú,NA,2025-04-14
+2025-04-15,Receita,577.78,salario quinzenal,Fixo,0,Receita,Salário,accenture,Receita,Itaú,NA,2025-04-15
+2025-04-15,Gasto,12,brownie sofia estat,Extra,1,Compras,Lanches,Sofia Marinho,Debito ou Pix,Itaú,NA,2025-04-15
+2025-04-15,Gasto,60,pix bandeco,Variável,1,Refeições,Bandeco,unicamp,Debito ou Pix,Itaú,NA,2025-04-15
+2025-04-15,Gasto,15,pix elizabeth,Extra,1,Outros,Desconhecido,Elizabeth Elena,Debito ou Pix,Itaú,NA,2025-04-15
+2025-04-15,Gasto,12,pix matheus,Extra,1,Outros,Desconhecido,Matheus Henrique,Debito ou Pix,Itaú,NA,2025-04-15
+2025-04-16,Gasto,30,rshop,Extra,1,Outros,Desconhecido,rshop,Debito ou Pix,Itaú,não sei o que é isso,2025-04-16
+2025-04-22,Gasto,160,pix mae,Pontual,1,Outros,Não se encaixa,Mae,Debito ou Pix,Itaú,NA,2025-04-22
+2025-04-22,Gasto,20,rshop,Extra,1,Outros,Desconhecido,rshop,Debito ou Pix,Itaú,NA,2025-04-22
+2025-04-22,Gasto,29,carona andressa,Variável,1,Transporte,Carona,blablacar,Debito ou Pix,Itaú,NA,2025-04-22
+2025-04-22,Receita,0.01,rendimentos itau,Extra,0,Receita,Investimentos,itau,Debito ou Pix,Itaú,NA,2025-04-22
+2025-04-23,Gasto,13.97,uber,Variável,1,Transporte,Uber,uber,Debito ou Pix,Itaú,NA,2025-04-23
+2025-04-23,Gasto,14.48,compras dalben,Variável,1,Compras,Comida,dalben,Debito ou Pix,Itaú,NA,2025-04-23
+2025-04-23,Gasto,8.97,uber unicamp,Variável,1,Transporte,Uber,uber,Debito ou Pix,Itaú,NA,2025-04-23
+2025-04-23,Gasto,3.5,cafe gran coffee,Extra,1,Compras,Lanches,gran coffee,Debito ou Pix,Itaú,NA,2025-04-23
+2025-04-24,Gasto,30,carona carmen,Variável,1,Transporte,Carona,blablacar,Debito ou Pix,Itaú,NA,2025-04-24
+2025-04-24,Receita,0.07,rendimentos itau,Extra,0,Receita,Investimentos,itau,Receita,Itaú,NA,2025-04-24
+2025-04-25,Gasto,20,passagens metro,Variável,1,Transporte,Público,metro,Debito ou Pix,Itaú,NA,2025-04-25
+2025-04-25,Receita,41.36,reembolso,Pontual,0,Receita,Acerto de contas,itau,Receita,Itaú,NA,2025-04-25
+2025-04-26,Gasto,30,passagem metro,Variável,1,Transporte,Público,metro,Debito ou Pix,Itaú,NA,2025-04-26
+2025-04-27,Gasto,30,carona mateus,Variável,1,Transporte,Carona,blablacar,Debito ou Pix,Itaú,NA,2025-04-27
+2025-04-30,Receita,855.83,salario mensal,Fixo,0,Receita,Salário,accenture,Receita,Itaú,NA,2025-04-30
+2025-04-30,Gasto,7,breja embrev com gabi,Extra,1,Lazer,Roles,embrev,Debito ou Pix,Itaú,NA,2025-04-30
+2025-05-07,Receita,1209.94,ajuda pai,Extra,0,Receita,Presentes ou Ajuda,pai,Debito ou Pix,Itaú,NA,2025-05-07
+2025-05-07,Gasto,58.82,pix rizzo churras ?,Extra,1,Compras,Comida,Vitor Rizzo,Debito ou Pix,Itaú,NA,2025-05-07
+2025-05-08,Gasto,14,cafe da manha barraca do postinho,Extra,1,Refeições,Lanches,pastelaria tropical,Debito ou Pix,Itaú,NA,2025-05-08
+2025-05-08,Gasto,31,carona rodrigo,Variável,1,Transporte,Carona,blablacar,Debito ou Pix,Itaú,NA,2025-05-08
+2025-05-09,Gasto,20,passagem metro,Variável,1,Transporte,Público,metro,Debito ou Pix,Itaú,NA,2025-05-09
+2025-05-10,Gasto,5,pix sei la alessandro,Extra,1,Outros,Desconhecido,Alessandro,Debito ou Pix,Itaú,NA,2025-05-10
+2025-05-11,Gasto,14.2,uber rachado com dimitri,Variável,1,Transporte,Uber,uber,Debito ou Pix,Itaú,NA,2025-05-11
+2025-05-11,Gasto,25,carona sergio,Variável,1,Transporte,Carona,blablacar,Debito ou Pix,Itaú,NA,2025-05-11
+2025-05-12,Gasto,39.6,mapas ibge eu + gabi,Extra,2,Compras,Lazer,IBGE,Debito ou Pix,Itaú,NA,2025-05-12
+2025-05-13,Receita,0.05,rendimentos itau,Extra,0,Receita,Investimentos,itau,Receita,Itaú,NA,2025-05-13
+2025-05-13,Gasto,30,recarga bandeco,Variável,10,Refeições,Bandeco,unicamp,Debito ou Pix,Itaú,NA,2025-05-13
+2025-05-13,Receita,500,presente tia helo formatura,Extra,0,Receita,Presentes ou Ajuda,tia helo,Receita,Itaú,NA,2025-05-13
+2025-05-13,Gasto,175.5,reserva airbnb iperocks,Extra,1,Lazer,Esportes,William Sedano,Debito ou Pix,Itaú,NA,2025-05-13
+2025-05-13,Gasto,30,carona davisso,Variável,1,Transporte,Carona,blablacar,Debito ou Pix,Itaú,NA,2025-05-13
+2025-05-13,Gasto,30,passagem metro,Variável,1,Transporte,Público,metro,Debito ou Pix,Itaú,NA,2025-05-13
+2025-05-14,Gasto,60,camiseta SOAD,Extra,1,Compras,Roupas e Acessórios,Beatriz Domingos,Debito ou Pix,Itaú,NA,2025-05-14
+2025-05-15,Receita,577.78,salario quinzenal,Fixo,0,Receita,Salário,accenture,Receita,Itaú,NA,2025-05-15
+2025-05-15,Gasto,20,pix julia ??,Extra,1,Outros,Desconhecido,Julia ??,Debito ou Pix,Itaú,NA,2025-05-15
+2025-05-15,Gasto,10.1,recarga transurc ?,Variável,1,Transporte,Público,transurc,Debito ou Pix,Itaú,NA,2025-05-15
+2025-05-15,Gasto,30,carona gustavo,Variável,1,Transporte,Carona,blablacar,Debito ou Pix,Itaú,NA,2025-05-15
+2025-04-14,Gasto,1415.97,aluguel,Fixo,1,Casa,Aluguel e Contas,barao housing,Debito ou Pix,Itaú,NA,2025-04-14
+2025-05-15,Gasto,1558.03,aluguel atrasado,Fixo,1,Casa,Aluguel e Contas,barao housing,Debito ou Pix,Itaú,NA,2025-05-15
+2025-05-15,Receita,0.02,rendimentos itau,Extra,0,Receita,Investimentos,itau,Receita,Itaú,NA,2025-05-15
+2025-05-17,Gasto,20,pix henrique ?,Extra,1,Outros,Desconhecido,Henrique de Lima,Debito ou Pix,Itaú,NA,2025-05-17
+2025-05-21,Gasto,10,incrição campeonato caipira,Extra,1,Lazer,Esportes,GEEU,Debito ou Pix,Itaú,NA,2025-05-21
+2025-05-22,Gasto,33,carona nicolas,Variável,1,Transporte,Carona,blablacar,Debito ou Pix,Itaú,NA,2025-05-22
+2025-05-23,Gasto,41.6,prodata ??,Extra,1,Outros,Desconhecido,prodata,Debito ou Pix,Itaú,NA,2025-05-23
+2025-05-24,Gasto,33.55,mag líquido 4climb,Pontual,1,Compras,Lazer,4climb,Debito ou Pix,Itaú,NA,2025-05-24
+2025-05-25,Gasto,30,carona eudes,Variável,1,Transporte,Carona,blablacar,Debito ou Pix,Itaú,NA,2025-05-25
+2025-05-29,Gasto,21,racarga bandeco,Variável,1,Refeições,Bandeco,unicamp,Debito ou Pix,Itaú,NA,2025-05-29
+2025-05-30,Receita,855.83,salario mensal,Fixo,0,Receita,Salário,accenture,Receita,Itaú,NA,2025-05-30
+2025-06-02,Gasto,10,passagem metro,Variável,1,Transporte,Público,metro,Debito ou Pix,Itaú,NA,2025-06-02
+2025-06-02,Gasto,30,carona lucas,Variável,1,Transporte,Carona,blablacar,Debito ou Pix,Itaú,NA,2025-06-02
+2025-06-02,Gasto,116.15,cobertor mais quente,Pontual,1,Casa,Utilidades,mercado livre,Debito ou Pix,Itaú,NA,2025-06-02
+2025-06-02,Receita,0.02,rendimentos itau,Extra,0,Receita,Investimentos,itau,Debito ou Pix,Itaú,NA,2025-06-02
+2025-06-05,Gasto,30,recarga bandeco,Variável,1,Refeições,Bandeco,unicamp,Debito ou Pix,Itaú,NA,2025-06-05
+2025-06-07,Gasto,50,camiseta campeonato caipira,Extra,1,Compras,Roupas e Acessórios,GEEU,Debito ou Pix,Itaú,NA,2025-06-07
+2025-04-01,Gasto,17.96,ubers,Variável,2,Transporte,Uber,uber,Crédito,Itaú,NA,2025-04-01
+2025-04-02,Gasto,20,recarga transurc,Variável,1,Transporte,Público,transurc,Crédito,Itaú,NA,2025-04-02
+2025-04-02,Gasto,11.58,compras farmacia,Variável,1,Compras,Higiene e Cuidados,drogaria sao paulo,Crédito,Itaú,NA,2025-04-02
+2025-04-02,Gasto,9.78,compras dalben,Variável,1,Compras,Comida,dalben,Crédito,Itaú,NA,2025-04-02
+2025-04-03,Gasto,17.9,lavanderia tenis,Pontual,1,Serviços,lavanderia,wash2go,Crédito,Itaú,NA,2025-04-03
+2025-04-03,Gasto,470.16,colchão novo,Pontual,1,Casa,Utilidades,fabrispuma,Crédito,Itaú,NA,2025-04-03
+2025-04-03,Gasto,46.8,lampada smart,Pontual,1,Casa,Manutenção,amazon,Crédito,Itaú,NA,2025-04-03
+2025-04-04,Gasto,20,recarga transurc,Variável,1,Transporte,Público,transurc,Crédito,Itaú,NA,2025-04-04
+2025-04-06,Gasto,26.87,ubers,Variável,2,Transporte,Uber,uber,Crédito,Itaú,NA,2025-04-06
+2025-04-06,Gasto,560.43,lentes de contato,Pontual,6,Compras,Higiene e Cuidados,lentes plus,Crédito,Itaú,NA,2025-04-06
+2025-04-07,Gasto,9.99,assinatura google one,Assinatura,1,Compras,Digital,google,Crédito,Itaú,NA,2025-04-07
+2025-04-07,Gasto,24,recarga transurc,Variável,2,Transporte,Público,transurc,Crédito,Itaú,NA,2025-04-07
+2025-04-08,Gasto,9.94,uber,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,2025-04-08
+2025-04-08,Gasto,20.69,compras dalben,Variável,1,Compras,Comida,dalben,Crédito,Itaú,NA,2025-04-08
+2025-04-09,Gasto,22.9,kebab frango tannur,Extra,1,Refeições,Refeições,tannur,Crédito,Itaú,NA,2025-04-09
+2025-04-09,Gasto,20,recarga transurc,Variável,1,Transporte,Público,transurc,Crédito,Itaú,NA,2025-04-09
+2025-04-10,Gasto,24.5,croissant e café,Extra,1,Refeições,Lanches,cafeteria cb,Crédito,Itaú,NA,2025-04-10
+2025-04-10,Gasto,14.5,cantina da harumi ??,Extra,1,Refeições,Lanches,cantina da harumi,Crédito,Itaú,NA,2025-04-10
+2025-04-11,Gasto,45.83,ubers,Variável,3,Transporte,Uber,uber,Crédito,Itaú,NA,2025-04-11
+2025-04-11,Gasto,245,compras dom pedro,Extra,2,Compras,Roupas e Acessórios,hering,Crédito,Itaú,NA,2025-04-11
+2025-04-11,Gasto,20.69,compras dalben,Variável,1,Compras,Comida,dalben,Crédito,Itaú,NA,2025-04-11
+2025-04-12,Gasto,17.9,lavanderia,Pontual,1,Serviços,lavanderia,wash2go,Crédito,Itaú,NA,2025-04-12
+2025-04-12,Gasto,22.9,tannur kebab frango,Extra,1,Refeições,Refeições,tannur,Crédito,Itaú,NA,2025-04-12
+2025-04-12,Gasto,7.99,compras dalben,Variável,1,Compras,Comida,dalben,Crédito,Itaú,NA,2025-04-12
+2025-04-13,Gasto,95.35,uber volta formatura,Pontual,1,Transporte,Uber,uber,Crédito,Itaú,NA,2025-04-13
+2025-04-13,Gasto,46.9,tannur combo,Extra,1,Refeições,Refeições,tannur,Crédito,Itaú,NA,2025-04-13
+2025-04-14,Gasto,9.9,uber,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,2025-04-14
+2025-04-15,Gasto,26,recarga transurc,Variável,2,Transporte,Público,transurc,Crédito,Itaú,NA,2025-04-15
+2025-04-15,Gasto,12.98,compras oxxo,Extra,1,Compras,Lanches,oxxo,Crédito,Itaú,NA,2025-04-15
+2025-04-15,Gasto,60.77,compras dalben,Variável,1,Compras,Comida,dalben,Crédito,Itaú,NA,2025-04-15
+2025-04-16,Gasto,45.61,ubers,Variável,3,Transporte,Uber,uber,Crédito,Itaú,NA,2025-04-16
+2025-04-16,Gasto,27.12,buser,Variável,1,Transporte,Rodoviaria ou Fretado,buser,Crédito,Itaú,NA,2025-04-16
+2025-04-16,Gasto,50.8,nico panificadora ?,Extra,1,Refeições,Refeições,nico panificadora,Crédito,Itaú,NA,2025-04-16
+2025-04-17,Gasto,19.9,audible teste,Assinatura,1,Compras,Digital,audible,Crédito,Itaú,NA,2025-04-17
+2025-04-17,Gasto,47.4,divino fogao,Extra,1,Refeições,Refeições,divino fogao,Crédito,Itaú,NA,2025-04-17
+2025-04-17,Gasto,23,compras atacadao,Variável,1,Compras,Comida,atacadao,Crédito,Itaú,NA,2025-04-17
+2025-04-17,Gasto,449.96,tenis adidas gazelle,Extra,1,Compras,Roupas e Acessórios,authentic feet,Crédito,Itaú,NA,2025-04-17
+2025-04-18,Gasto,41.9,mania de churrasco,Extra,1,Refeições,Refeições,mania de churrasco,Crédito,Itaú,NA,2025-04-18
+2025-04-18,Gasto,24,ingresso cinemark sinners (?),Extra,1,Lazer,Roles,cinemark,Crédito,Itaú,NA,2025-04-18
+2025-04-19,Gasto,65,bone levis falso brecho,Extra,1,Compras,Roupas e Acessórios,brecho republica,Crédito,Itaú,NA,2025-04-19
+2025-04-20,Gasto,10.98,uber,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,2025-04-20
+2025-04-20,Gasto,71.35,lanche em santos,Extra,1,Lazer,Gastos no local - Outros,praia de santos,Crédito,Itaú,NA,2025-04-20
+2025-04-20,Gasto,10.7,cafe em santos,Extra,1,Lazer,Gastos no local - Outros,cafe em santos,Crédito,Itaú,NA,2025-04-20
+2025-04-20,Gasto,21.9,assinatura spotify,Assinatura,1,Compras,Digital,spotify,Crédito,Itaú,NA,2025-04-20
+2025-04-21,Gasto,60.09,compras hirota,Extra,1,Compras,Comida,hirota,Crédito,Itaú,NA,2025-04-21
+2025-04-22,Gasto,39.87,ubers,Variável,2,Transporte,Uber,uber,Crédito,Itaú,NA,2025-04-22
+2025-04-22,Gasto,22.9,tannur frango,Variável,1,Refeições,Refeições,tannur,Crédito,Itaú,NA,2025-04-22
+2025-04-22,Gasto,10.99,daiso nao lembro,Extra,1,Compras,Lazer,daiso,Crédito,Itaú,NA,2025-04-22
+2025-04-22,Gasto,38.9,refeição dom pedro,Extra,1,Refeições,Refeições,smartcooking,Crédito,Itaú,NA,2025-04-22
+2025-04-24,Gasto,20,recarga transurc,Variável,1,Transporte,Público,transurc,Crédito,Itaú,NA,2025-04-24
+2025-04-24,Gasto,35.97,compras varios supermercados,Extra,3,Compras,Lanches,supermercados,Crédito,Itaú,NA,2025-04-24
+2025-04-24,Gasto,13.95,uber,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,2025-04-24
+2025-04-25,Gasto,41.36,devolução saldo credor ??????,Multa ou Dívida,1,Outros,Multas ou Dívidas,???,Crédito,Itaú,NA,2025-04-25
+2025-04-25,Gasto,34.94,unidade são judas??,Extra,1,Refeições,Refeições,???,Crédito,Itaú,NA,2025-04-25
+2025-04-25,Gasto,11.9,uber,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,2025-04-25
+2025-04-25,Gasto,38.9,cafeteria cb,Extra,1,Refeições,Lanches,cafeteria cb,Crédito,Itaú,NA,2025-04-25
+2025-04-26,Gasto,65,corte de cabelo keeperz,Pontual,1,Serviços,Corpo,keeperz,Crédito,Itaú,NA,2025-04-26
+2025-04-26,Gasto,18.98,compras oxxo,Extra,1,Compras,Lanches,oxxo,Crédito,Itaú,NA,2025-04-26
+2025-04-27,Gasto,61.04,date urbe isabella,Extra,1,Lazer,Dates,urbe,Crédito,Itaú,NA,2025-04-27
+2025-04-27,Gasto,36.8,sukiya,Variável,1,Refeições,Refeições,sukiya,Crédito,Itaú,NA,2025-04-27
+2025-04-27,Gasto,15.9,gosto doce???,Extra,1,Compras,Lanches,gosto doce,Crédito,Itaú,NA,2025-04-27
+2025-04-27,Gasto,8.28,compras oxxo,Extra,1,Compras,Lanches,oxxo,Crédito,Itaú,NA,2025-04-27
+2025-04-28,Gasto,25.92,ubers,Variável,2,Transporte,Uber,uber,Crédito,Itaú,NA,2025-04-28
+2025-04-28,Gasto,30,recarga transurc,Variável,1,Transporte,Público,transurc,Crédito,Itaú,NA,2025-04-28
+2025-04-29,Gasto,8.96,uber,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,2025-04-29
+2025-04-29,Gasto,17.87,compras e farmacia,Variável,2,Compras,Higiene e Cuidados,supermercados,Crédito,Itaú,NA,2025-04-29
+2025-04-30,Gasto,32.91,ubers,Variável,3,Transporte,Uber,uber,Crédito,Itaú,NA,2025-04-30
+2025-04-30,Gasto,40.34,compras diversas,Variável,3,Compras,Lanches,supermercados e farmacias,Crédito,Itaú,NA,2025-04-30
+2025-04-30,Gasto,32,gastos em bar,Extra,2,Lazer,Gastos no local - Bebida,estacao barao,Crédito,Itaú,NA,2025-04-30
+2025-05-01,Gasto,37.95,ubers date gabi,Variável,2,Transporte,Uber,uber,Crédito,Itaú,NA,2025-05-01
+2025-05-02,Gasto,8.78,compras oxxo,Extra,1,Compras,Lanches,oxxo,Crédito,Itaú,NA,2025-05-02
+2025-05-03,Gasto,24.97,compras oxxo,Variável,1,Compras,Comida,oxxo,Crédito,Itaú,NA,2025-05-03
+2025-05-04,Gasto,20.98,marmita ifood,Extra,1,Refeições,Delivery,ifood,Crédito,Itaú,NA,2025-05-04
+2025-05-04,Gasto,70.48,compras para casa e farmacia,Pontual,3,Casa,Utilidades,"americanas, multicoisas, drogaria sao paulo",Crédito,Itaú,NA,2025-05-04
+2025-05-04,Gasto,137.49,lampada industrial mesa,Pontual,1,Casa,Utilidades,amazon,Crédito,Itaú,NA,2025-05-04
+2025-05-05,Gasto,45.9,compras pague menos,Variável,1,Compras,Comida,pague menos,Crédito,Itaú,NA,2025-05-05
+2025-05-05,Gasto,7.91,uber,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,2025-05-05
+2025-05-06,Gasto,40,recarga transurc,Variável,2,Transporte,Público,transurc,Crédito,Itaú,NA,2025-05-06
+2025-05-06,Gasto,9.99,assinatura google one,Assinatura,1,Compras,Digital,google,Crédito,Itaú,NA,2025-05-06
+2025-05-06,Gasto,95.78,compras para o pão,Pontual,2,Casa,Cozinha,"multicoisas, nosso lar",Crédito,Itaú,NA,2025-05-06
+2025-05-08,Gasto,82.71,varios ubers não lembro,Variável,4,Transporte,Uber,uber,Crédito,Itaú,NA,2025-05-08
+2025-05-09,Gasto,7.99,lapis,Pontual,1,Compras,Papelaria,lojas mel,Crédito,Itaú,NA,2025-05-09
+2025-05-09,Gasto,63.2,comida cafe sampa boulder,Extra,1,Refeições,Refeições,forneria flora,Crédito,Itaú,NA,2025-05-09
+2025-05-10,Gasto,11.98,uber,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,2025-05-10
+2025-05-10,Gasto,14,cafe,Variável,1,Refeições,Lanches,cafe nas alturas,Crédito,Itaú,NA,2025-05-10
+2025-05-11,Gasto,72.92,ubers,Variável,2,Transporte,Uber,uber,Crédito,Itaú,NA,2025-05-11
+2025-05-12,Gasto,30,recarga transurc,Variável,1,Transporte,Público,transurc,Crédito,Itaú,NA,2025-05-12
+2025-05-12,Gasto,7.91,uber,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,2025-05-12
+2025-05-13,Gasto,8.92,uber,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,2025-05-13
+2025-05-14,Gasto,33.93,buffalo wax,Extra,1,Compras,Lazer,amazon,Crédito,Itaú,NA,2025-05-14
+2025-05-14,Gasto,10,mini velho barreiro,Extra,1,Compras,Bebida,saidinha bar,Crédito,Itaú,NA,2025-05-14
+2025-05-14,Gasto,35,vinho show SOAD,Extra,1,Lazer,Gastos no local - Bebida,zig,Crédito,Itaú,NA,2025-05-14
+2025-05-15,Gasto,8.78,compras oxxo,Extra,1,Compras,Lanches,oxxo,Crédito,Itaú,NA,2025-05-15
+2025-05-17,Gasto,10.97,uber,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,2025-05-17
+2025-05-17,Gasto,46.89,mestre grill,Extra,1,Refeições,Delivery,mestre grill,Crédito,Itaú,NA,2025-05-17
+2025-05-18,Gasto,22.9,uber,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,2025-05-18
+2025-05-19,Gasto,30,recarga transurc,Variável,1,Transporte,Público,transurc,Crédito,Itaú,NA,2025-05-19
+2025-05-20,Gasto,21.9,assinatura spotify,Assinatura,1,Compras,Digital,spotify,Crédito,Itaú,NA,2025-05-20
+2025-05-21,Gasto,40.33,compras dalben,Variável,2,Compras,Comida,dalben,Crédito,Itaú,NA,2025-05-21
+2025-05-21,Gasto,22.86,ubers,Variável,2,Transporte,Uber,uber,Crédito,Itaú,NA,2025-05-21
+2025-05-21,Gasto,29.89,tannur,Extra,1,Refeições,Refeições,tannur,Crédito,Itaú,NA,2025-05-21
+2025-05-21,Gasto,4.5,sei la alguma coisa em barao,Extra,1,Refeições,Lanches,montagner e cia,Crédito,Itaú,NA,2025-05-21
+2025-05-22,Gasto,22.89,ubers,Variável,2,Transporte,Uber,uber,Crédito,Itaú,NA,2025-05-22
+2025-05-22,Gasto,30,recarga transurc,Variável,2,Transporte,Público,transurc,Crédito,Itaú,NA,2025-05-22
+2025-05-22,Gasto,6.98,compras oxxo,Extra,1,Compras,Lanches,oxxo,Crédito,Itaú,NA,2025-05-22
+2025-05-23,Gasto,99,date isa karaoke,Extra,1,Lazer,Dates,oya karaoke,Crédito,Itaú,NA,2025-05-23
+2025-05-23,Gasto,70,nao sei????,Extra,1,Outros,Desconhecido,fei 2,Crédito,Itaú,NA,2025-05-23
+2025-05-23,Gasto,36.96,uber,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,2025-05-23
+2025-05-24,Gasto,54.9,compras atacadao,Variável,1,Compras,Comida,atacadao,Crédito,Itaú,NA,2025-05-24
+2025-05-24,Gasto,33.6,unidade são judas ??,Extra,1,Outros,Desconhecido,unidade sao judas,Crédito,Itaú,NA,2025-05-24
+2025-05-25,Gasto,13.9,uber,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,2025-05-25
+2025-05-25,Gasto,35.98,pupos burguer,Extra,1,Refeições,Delivery,pupos burguer,Crédito,Itaú,NA,2025-05-25
+2025-05-21,Gasto,46.74,jockstrap,Extra,1,Compras,Roupas e Acessórios,amazon,Crédito,Itaú,NA,2025-05-21
+2025-05-26,Gasto,23.94,colheres de sobremesa,Pontual,1,Casa,Cozinha,amazon,Crédito,Itaú,NA,2025-05-26
+2025-05-26,Gasto,5.26,cafe da manha dalben,Variável,1,Compras,Comida,dalben,Crédito,Itaú,NA,2025-05-26
+2025-05-26,Gasto,47.78,cantina do belo,Variável,1,Refeições,Refeições,cantina belo,Crédito,Itaú,NA,2025-05-26
+2025-05-27,Gasto,10.43,compras dalben,Variável,1,Compras,Comida,dalben,Crédito,Itaú,NA,2025-05-27
+2025-05-27,Gasto,20,recarga transurc,Variável,1,Transporte,Público,transurc,Crédito,Itaú,NA,2025-05-27
+2025-05-27,Gasto,59.02,arraia viracopos,Extra,1,Lazer,Festas e Shows,cheers,Crédito,Itaú,NA,2025-05-27
+2025-05-27,Gasto,16.84,ubers,Variável,2,Transporte,Uber,uber,Crédito,Itaú,NA,2025-05-27
+2025-05-28,Gasto,57.2,aniversario eric,Extra,1,Lazer,Roles,bardana,Crédito,Itaú,NA,2025-05-28
+2025-05-28,Gasto,18.18,compras dalben,Extra,1,Compras,Lanches,dalben,Crédito,Itaú,NA,2025-05-28
+2025-05-29,Gasto,50,recarga transurc,Variável,3,Transporte,Público,transurc,Crédito,Itaú,NA,2025-05-29
+2025-05-29,Gasto,36.01,ubers,Variável,3,Transporte,Uber,uber,Crédito,Itaú,NA,2025-05-29
+2025-05-30,Gasto,33.75,ingresso lovenox,Extra,1,Lazer,Roles,lovenox,Crédito,Itaú,NA,2025-05-30
+2025-05-30,Gasto,14,doses padaria nates da lovenox,Extra,1,Lazer,Gastos no local - Bebida,mp santos,Crédito,Itaú,NA,2025-05-30
+2025-05-31,Gasto,83,lovenox!,Extra,4,Lazer,Gastos no local - Bebida,lovenox,Crédito,Itaú,NA,2025-05-31
+2025-05-31,Gasto,8,vanessa cotrim ??,Extra,1,Outros,Desconhecido,vanessa cotrim,Crédito,Itaú,NA,2025-05-31
+2025-06-01,Gasto,15.9,maestro???,Extra,1,Outros,Desconhecido,maestro,Crédito,Itaú,NA,2025-06-01
+2025-06-02,Gasto,8.98,uber,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,2025-06-02
+2025-06-03,Gasto,24.9,fixadores de quadro 3m,Pontual,1,Casa,Utilidades,amazon,Crédito,Itaú,NA,2025-06-03
+2025-06-03,Gasto,17,cafe da manha pastelaria tropical,Extra,1,Refeições,Lanches,pastelaria tropical,Crédito,Itaú,NA,2025-06-03
+2025-06-03,Gasto,9.96,uber,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,2025-06-03
+2025-06-04,Gasto,8.92,uber,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,2025-06-04
+2025-06-05,Gasto,8.97,uber,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,2025-06-05
+2025-06-05,Gasto,30,cerveja embrev,Extra,2,Lazer,Gastos no local - Bebida,embrev,Crédito,Itaú,NA,2025-06-05
+2025-06-06,Gasto,9.99,assinatura google one,Assinatura,1,Compras,Digital,google,Crédito,Itaú,NA,2025-06-06
+2025-06-06,Gasto,14.92,uber,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,2025-06-06
+2025-06-07,Gasto,33.9,camisa brechó junina,Extra,1,Compras,Roupas e Acessórios,brechostrin,Crédito,Itaú,NA,2025-06-07
+2025-05-07,Gasto,18.96,ubers campeonato caipira,Variável,2,Transporte,Uber,uber,Crédito,Itaú,NA,2025-05-07
+2025-06-08,Gasto,20.89,ubers,Variável,2,Transporte,Uber,uber,Crédito,Itaú,NA,2025-06-08
+2025-05-29,Receita,944,vr+va,Fixo,0,Receita,Benefícios,accenture,Vale Refeição,Alelo,NA,2025-05-29
+2025-05-31,Gasto,40.84,role com gi lemos,Extra,2,Lazer,Roles,cafés,Vale Refeição,Alelo,NA,2025-05-31
+2025-06-03,Gasto,5.5,cafe da manhahellen?,Variável,1,Refeições,Lanches,hellen yodono,Vale Refeição,Alelo,NA,2025-06-03
+2025-06-04,Gasto,20,agua e croissant cb to go,Extra,1,Refeições,Lanches,cafeteria cb,Vale Refeição,Alelo,NA,2025-06-04
+2025-06-04,Gasto,5,cafe gran coffee,Extra,1,Compras,Lanches,gran coffee,Vale Refeição,Alelo,NA,2025-06-04
+2025-06-06,Gasto,22.8,vinhos pague menos,Extra,2,Compras,Bebida,pague menos,Vale Refeição,Alelo,NA,2025-06-06
+2025-06-06,Gasto,11.49,compras oxxo(??),Variável,1,Compras,Comida,oxxo,Vale Refeição,Alelo,NA,2025-06-06
+2025-06-06,Gasto,44.7,tannur dia que saí do grupo + date gabi,Variável,1,Refeições,Refeições,tannur,Vale Refeição,Alelo,NA,2025-06-06
+2025-06-07,Gasto,35.31,compras dalben,Variável,1,Compras,Comida,dalben,Vale Refeição,Alelo,NA,2025-06-07
+2025-06-07,Gasto,19.98,barras de cereal,Variável,4,Compras,Comida,pao de acucar,Vale Refeição,Alelo,NA,2025-06-07
+2025-05-29,Gasto,9.78,compras oxxo,Extra,1,Compras,Lanches,oxxo,Vale Refeição,Alelo,NA,2025-05-29
+2025-06-01,Gasto,62.15,compras dalben,Variável,1,Compras,Comida,dalben,Vale Refeição,Alelo,NA,2025-06-01
+2025-06-02,Gasto,14.84,compras dalben,Extra,2,Compras,Lanches,dalben,Vale Refeição,Alelo,NA,2025-06-02
+2025-06-04,Gasto,21.86,compras dalben,Variável,2,Casa,Manutenção,dalben,Vale Refeição,Alelo,NA,2025-06-04
+2025-06-05,Gasto,88.87,compras dalben,Extra,2,Compras,Comida,dalben,Vale Refeição,Alelo,NA,2025-06-05
+2025-06-06,Gasto,17.36,compras dalben,Variável,1,Casa,Manutenção,dalben,Vale Refeição,Alelo,NA,2025-06-06
+2025-06-08,Gasto,24.54,compras dalben jantar gabi,Variável,1,Compras,Comida,dalben,Vale Refeição,Alelo,NA,2025-06-08
+2025-06-09,Gasto,16.78,dalben - vaso de flor + pão,Variável,1,Compras,Comida,dalben,Vale Refeição,Alelo,NA,NA
+2025-06-09,Gasto,8.96,Uber pro bandeco,Variável,1,Transporte,Uber,uber,Crédito,Itaú,NA,NA
